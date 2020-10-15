@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`name`, `adname`, `ademail`, `adpswd`) VALUES
-('abhayjeet', 'script_kiddie', 'abhayjeet555555@gmail.com', '1a1dc91c907325c69271ddf0c944bc72');
+('abhayjeet singh', 'dominousress', 'abhayjeet555555@gmail.com', '1a1dc91c907325c69271ddf0c944bc72');
 
 -- --------------------------------------------------------
 
