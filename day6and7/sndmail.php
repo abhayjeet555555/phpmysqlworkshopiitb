@@ -114,7 +114,7 @@ $headers .= 'From: meshree4@gmail.com' . "\r\n";
 
 $headers1 = "MIME-Version: 1.0\r\n";
 $headers1 .= "Content-Type: text/html; charset=UTF-8\r\n";
-$headers1 .= 'From: meshree4@gmail.com' . "\r\n";
+$headers1 .= 'From: abhayjeet55@gmail.com' . "\r\n";
  
 
  $msg1 = "Dear $pname,";
