@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`name`, `adname`, `ademail`, `adpswd`) VALUES
-('Shreedhar Chavan', 'script_kiddie', 'meshree4@gmail.com', '1a1dc91c907325c69271ddf0c944bc72');
+('abhayjeet', 'script_kiddie', 'abhayjeet555555@gmail.com', '1a1dc91c907325c69271ddf0c944bc72');
 
 -- --------------------------------------------------------
 
@@ -66,12 +66,11 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`name`, `uname`, `email`, `password`, `phpm`, `mysqlm`, `htmlm`, `tmo`, `tm`, `percentage`) VALUES
-('himanshu', 'himanshu12', 'blackout@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 80, 80, 85, 245, 300, 81.6667),
-('Dhiraj Amin', 'iDhiraj', 'Dhiraj@gmail.com', '202cb962ac59075b964b07152d234b70', 100, 100, 100, 300, 300, 100),
-('sarvesh', 'sarvesh', 'sarvesh@gmail.com', '1a1dc91c907325c69271ddf0c944bc72', 50, 100, 50, 200, 300, 66.6667),
-('Shreedhar Chavan', 'script_kiddie', 'meshree4@gmail.com', '1a1dc91c907325c69271ddf0c944bc72', 100, 100, 100, 300, 300, 100),
-('siddesh', 'sidd20', 'siddesh@gmail.com', '557ad407c100ac502e00469539504f8e', 90, 89, 90, 269, 300, 89.6667),
-('swaraj', 'swaraj', 'swaraj@gmail.com', '202cb962ac59075b964b07152d234b70', 80, 80, 80, 240, 300, 80);
+('akshay', 'ravagers', 'outallrav@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 80, 80, 85, 245, 300, 81.6667),
+('jay surya', 'surigoo', 'surigoo00@gmail.com', '202cb962ac59075b964b07152d234b70', 100, 100, 100, 300, 300, 100),
+('sadhu', 'sadhu', 'sadhu@gmail.com', '1a1dc91c907325c69271ddf0c944bc72', 50, 100, 50, 200, 300, 66.6667),
+('abhayjeet singh', 'dominousress', 'abhayjeet55@gmail.com', '1a1dc91c907325c69271ddf0c944bc72', 100, 100, 100, 300, 300, 100),
+
 
 --
 -- Indexes for dumped tables
